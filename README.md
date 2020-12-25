@@ -133,6 +133,33 @@ Hierbei muss aber einen großzügigier Schuss Zitrone in den Teig geben werden.
 
 ### 5-okara-waffel.gsm
 
+Rezept für etwa 8 Waffeln mit Okara
+
+Dieses Rezept ergibt nach der Meinung seiner Schöpferin die besten Waffeln überhaupt, skaliert aber schlecht, da eine etwas exotische Zutat enthält.
+Okara sind die unlöslichen Reste, die bei der Herstellung von Sojamilch aus Sojabohnen übrig bleiben.
+
+- 250g Okara
+- 150mL Pflanzenöl
+- 200g Mehl
+- 150g Zucker
+- 50g Sauerteig
+- 1/4 Hefewürfel
+- optional 1TL Flohsamenschalenmehl
+- optional Wasser
+
+Den Sauerteig, Hefe und Okara mit dem Öl vermischen, dann den Zucker hineinrühren und kurz warten, bis dieser sich weitgehend aufgelöst hat.  
+Die Masse wird dabei etwas glasig und dünner.  
+Dann in mehreren Schritten das Mehl einrühren, undbei Bedarf Wasser zugeben.  
+Mindestens eine halbe Stunde gehen lassen, dann Teigkonsistenz noch mal überprüfen.  
+
+Die Waffeln backen sich sehr einfach und zügig aus, bräunen schön, und werden sehr knusprig-zart.
+
+Tipp:  
+Okara lässt sich auch ohne Sojamilchbereiter herstellen:  
+Dazu 150 g Sojabohnen ein paar Stunden einweichen, dann mit frischem Wasser auf 1.5 L auffüllen und 10-15 Minuten kochen lassen.  
+Danach mit dem Pürierstab nicht zu fein zerkleinern und die Sojamilch durch ein feines Sieb abseihen.  
+Das Filtrat ist das ersehnte Okara. Pro Charge fallen, neben 1.3 L leckerer DIY-Sojamilch, etwa 250 g Okara an.  
+
 ### 6-glutenfreie-waffel.gsm
 
 ### 7-dönerwaffel.gsm
