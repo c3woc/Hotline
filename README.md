@@ -162,6 +162,23 @@ Das Filtrat ist das ersehnte Okara. Pro Charge fallen, neben 1.3 L leckerer DIY-
 
 ### 6-glutenfreie-waffel.gsm
 
+Rezept für etwa 10 glutenfreie Waffeln.
+
+- 4 Eier
+- 200g Zucker
+- 250g Butter
+- 15g Vanillezucker
+- 10g Backpulver
+- 200ml Vollmilch
+- 400g Mais- oder Buchweizenmehl, Reismehl funktioniert nicht
+- 120ml Flaschen Club-Mate oder Flora Power
+- etwas (dunklen) Rum
+- eine prise Salz
+
+Weiche, geschmolzene Butter mit Ei und Zucker klumpenfrei verrühren.  
+Unter ständigen rühren die weiteren Zutaten hinzugeben.  
+Zu guter Letzt den Teig abschmecken und die Zutaten nach Gefühl variieren.  
+
 ### 7-dönerwaffel.gsm
 
 ### 8-knoblauchwaffel.gsm
