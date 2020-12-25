@@ -57,7 +57,7 @@ Zu guter Letzt den Teig abschmecken und die Zutaten nach Gefühl variieren.
 
 Rezept für ein Hafer-Brühstück, Zutaten für etwa ein Kilogramm Teig.
 
-- 80g Haferflocken
+- 80g Haferflocken  
 - 40g Erva-Mate Chimarrão (fein gemahlener, abgesiebter Mate-Tee)
 - 200mL Wasser
 - 100mL Sauerteig
@@ -113,7 +113,7 @@ Rezept für etwa 10 vegane Waffeln.
 Achtung: Das Rezept ist noch nicht ganz ausgereift und klebt mitunter gewaltig im Waffeleisen!
 
 400g Mehl
-180g Zucker
+   180g Zucker
 1/2 Banane
 150g vegane Butter oder Magarine
 300 mL Soja/Hafer/Madelmilch
@@ -135,7 +135,7 @@ Hierbei muss aber einen großzügigier Schuss Zitrone in den Teig geben werden.
 
 Rezept für etwa 8 Waffeln mit Okara
 
-Dieses Rezept ergibt nach der Meinung seiner Schöpferin die besten Waffeln überhaupt, skaliert aber schlecht, da eine etwas exotische Zutat enthält.
+Dieses Rezept ergibt nach der Meinung seiner Schöpferin die besten Waffeln überhaupt, skaliert aber schlecht, da es eine etwas exotische Zutat enthält.
 Okara sind die unlöslichen Reste, die bei der Herstellung von Sojamilch aus Sojabohnen übrig bleiben.
 
 - 250g Okara
@@ -158,7 +158,7 @@ Tipp:
 Okara lässt sich auch ohne Sojamilchbereiter herstellen:  
 Dazu 150 g Sojabohnen ein paar Stunden einweichen, dann mit frischem Wasser auf 1.5 L auffüllen und 10-15 Minuten kochen lassen.  
 Danach mit dem Pürierstab nicht zu fein zerkleinern und die Sojamilch durch ein feines Sieb abseihen.  
-Das Filtrat ist das ersehnte Okara. Pro Charge fallen, neben 1.3 L leckerer DIY-Sojamilch, etwa 250 g Okara an.  
+Das Filtrat ist das ersehnte Okara. Pro Charge fallen, neben 1.3 L Sojamilch, etwa 250 g Okara an.  
 
 ### 6-glutenfreie-waffel.gsm
 
@@ -171,7 +171,7 @@ Rezept für etwa 10 glutenfreie Waffeln.
 - 10g Backpulver
 - 200ml Vollmilch
 - 400g Mais- oder Buchweizenmehl, Reismehl funktioniert nicht
-- 120ml Flaschen Club-Mate oder Flora Power
+- 120ml Mate
 - etwas (dunklen) Rum
 - eine prise Salz
 
@@ -185,7 +185,7 @@ Die Dönerwaffel wird nicht nur durch den Teig definiert, sondern vor allen auch
 
 pro Waffel werden benötigt:  
 - 150g frisches, gebratenes Dönerfleisch
-- 50ml Dönersoße und/oder Tzatziki benötigt
+- 50ml Dönersoße und/oder Tzatziki
 
 Eine Standardwaffel oder alternativ eine Knoblauchwaffel zubereiten, dann mit Dönerfleisch und Soße belegen.  
 Erstaunlicherweise schmeckt das sogar ausgesprochen gut.  
