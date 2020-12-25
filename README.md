@@ -181,4 +181,13 @@ Zu guter Letzt den Teig abschmecken und die Zutaten nach Gefühl variieren.
 
 ### 7-dönerwaffel.gsm
 
+Die Dönerwaffel wird nicht nur durch den Teig definiert, sondern vor allen auch durch den Belag.
+
+pro Waffel werden benötigt:  
+- 150g frisches, gebratenes Dönerfleisch
+- 50ml Dönersoße und/oder Tzatziki benötigt
+
+Eine Standardwaffel oder alternativ eine Knoblauchwaffel zubereiten, dann mit Dönerfleisch und Soße belegen.  
+Erstaunlicherweise schmeckt das sogar ausgesprochen gut.  
+
 ### 8-knoblauchwaffel.gsm
