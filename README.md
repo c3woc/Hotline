@@ -108,6 +108,29 @@ Achtung, bei zu langem Backen werden die Waffeln schnell bitter.
 
 ### 4-vegane-waffel.gsm
 
+Rezept für etwa 10 vegane Waffeln.
+
+Achtung: Das Rezept ist noch nicht ganz ausgereift und klebt mitunter gewaltig im Waffeleisen!
+
+400g Mehl
+180g Zucker
+1/2 Banane
+150g vegane Butter oder Magarine
+300 mL Soja/Hafer/Madelmilch
+120ml Mate
+etwas Vanillezucker
+etwas (dunklen) Rum
+eine prise Salz
+
+Die kleingeschnittene Banene zusammen mit geschmolzener Magarine und Zucker klumpenfrei verrühren.  
+Unter ständigen rühren die weiteren Zutaten hinzugeben.
+Zu guter Letzt den Teig abschmecken und die Zutaten nach Gefühl variieren.
+Etwas mehr Öl oder Trennfett im Waffeleisen verwenden, da der Teig sonst klebt.
+
+Tipp:  
+Magarine kann durch etwa die halbe Menge Rapsöl ersetzt werden.  
+Hierbei muss aber einen großzügigier Schuss Zitrone in den Teig geben werden.
+
 ### 5-okara-waffel.gsm
 
 ### 6-glutenfreie-waffel.gsm
