@@ -191,3 +191,23 @@ Eine Standardwaffel oder alternativ eine Knoblauchwaffel zubereiten, dann mit D�
 Erstaunlicherweise schmeckt das sogar ausgesprochen gut.  
 
 ### 8-knoblauchwaffel.gsm
+
+Rezept für etwa 10 Knoblauchwaffeln
+
+Waffelteig muss nicht süß sein. So erfreuen sich herzhafte Waffeln einer immer größeren beliebtheit. Und Knoblauch geht immer!
+
+40 Eier
+250g Butter
+eine priese Vanillezucker
+10g Backpulver
+300mL Vollmilch
+400g Mehl
+120ml Mate
+etwas (dunklen) Rum
+eine großzügige Prise Salz
+frische oder getrockente Kräuter
+sehr viel Knoblauch
+
+Weiche, geschmolzene Butter mit Ei und Zucker klumpenfrei verrühren.  
+Unter ständigen rühren die weiteren Zutaten hinzugeben.  
+Zu guter Letzt den Teig abschmecken und mit weiteren Gewürzen optimieren. 
