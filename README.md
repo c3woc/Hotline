@@ -57,15 +57,15 @@ Zu guter Letzt den Teig abschmecken und die Zutaten nach Gefühl variieren.
 
 Rezept für ein Hafer-Brühstück, Zutaten für etwa ein Kilogramm Teig
 
-80 g    Haferflocken
-40 g    Erva-Mate Chimarrão (fein gemahlener, abgesiebter Mate-Tee)
-200 mL  Wasser
-100 mL  Sauerteig
-150 mL  Pflanzenöl
-270 g   Mehl
-150 g   Zucker
-1 Pr.   Salz
-1/4     Hefewürfel
+- 80g Haferflocken
+- 40g Erva-Mate Chimarrão (fein gemahlener, abgesiebter Mate-Tee)
+- 200mL Wasser
+- 100mL Sauerteig
+- 150mL Pflanzenöl
+- 270g Mehl
+- 150g Zucker
+- 1 Pr. Salz
+- 1/4 Hefewürfel
 
 Vorbereitung des Brühstücks:  
 Wir vermengen die Haferflocken mit dem Mate-Pulver, und übergießen es mit dem kochenden Wasser, dann abkühlen lassen.  
