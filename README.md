@@ -36,7 +36,7 @@ Leider befinden sich momentan alle Einhörner am Waffeleisen. Bitte ruf zu einem
 
 ### 1-klassische-waffel.gsm
 
-Rezept für etwa 10 klassische Waffeln  
+Rezept für etwa 10 klassische Waffeln
 
 - 4 Eier
 - 200g Zucker
@@ -54,6 +54,30 @@ Unter ständigen rühren die weiteren Zutaten hinzugeben.
 Zu guter Letzt den Teig abschmecken und die Zutaten nach Gefühl variieren.  
 
 ### 2-hafer-brühstück.gsm
+
+Rezept für ein Hafer-Brühstück, Zutaten für etwa ein Kilogramm Teig
+
+80 g    Haferflocken
+40 g    Erva-Mate Chimarrão (fein gemahlener, abgesiebter Mate-Tee)
+200 mL  Wasser
+100 mL  Sauerteig
+150 mL  Pflanzenöl
+270 g   Mehl
+150 g   Zucker
+1 Pr.   Salz
+1/4     Hefewürfel
+
+Vorbereitung des Brühstücks:  
+Wir vermengen die Haferflocken mit dem Mate-Pulver, und übergießen es mit dem kochenden Wasser, dann abkühlen lassen.  
+Die gequollenen, gelierten Haferkörner verleihen dem Teig eine gute Zähigkeit und machen die Waffeln locker und zart.  
+
+Der Teig:   
+Wenn der tiefgrüne „radioaktive Haferschleim“ Raumtemperatur hat, rühren wir ihn glatt und mischen Sauerteig, Öl, Zucker, Salz hinein.  
+Anschließend die Hefe zugeben und dann das Mehl in mehreren Schritten einrühren.  
+Falls nötig, immer wieder Wasser zugeben, um am Ende die perfekte Waffelteig-Konsistenz zu erhalten.  
+Mindestens eine halbe Stunde gehen lassen, dann die Teigkonsistenz noch mal überprüfen.  
+
+Abschmecken zB mit Zimt und abgeriebener Zitronenschale. (Vanille passt nicht so gut.)  
 
 ### 3-sojamuss.gsm
 
