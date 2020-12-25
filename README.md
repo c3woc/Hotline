@@ -36,7 +36,7 @@ Leider befinden sich momentan alle Einhörner am Waffeleisen. Bitte ruf zu einem
 
 ### 1-klassische-waffel.gsm
 
-Rezept für etwa 10 klassische Waffeln
+Rezept für etwa 10 klassische Waffeln.
 
 - 4 Eier
 - 200g Zucker
@@ -55,7 +55,7 @@ Zu guter Letzt den Teig abschmecken und die Zutaten nach Gefühl variieren.
 
 ### 2-hafer-brühstück.gsm
 
-Rezept für ein Hafer-Brühstück, Zutaten für etwa ein Kilogramm Teig
+Rezept für ein Hafer-Brühstück, Zutaten für etwa ein Kilogramm Teig.
 
 - 80g Haferflocken
 - 40g Erva-Mate Chimarrão (fein gemahlener, abgesiebter Mate-Tee)
@@ -80,6 +80,31 @@ Mindestens eine halbe Stunde gehen lassen, dann die Teigkonsistenz noch mal übe
 Abschmecken zB mit Zimt und abgeriebener Zitronenschale. (Vanille passt nicht so gut.)  
 
 ### 3-sojamuss.gsm
+
+Rezept für ein Sojamuß mit Matetee, Zutaten für etwa ein Kilogramm Teig.
+
+- 100g Sojabohnen
+- 150g Pflanzenöl
+- 100g Sauerteig
+- 150mL Wasser
+- 200g Mehl
+- 40g Erva-Mate Chimarrão (fein gemahlener, abgesiebter Mate-Tee)
+- 150g Zucker
+- 1 Pr. Salz
+- 1/4 Hefewürfel
+
+Sojabohnen 2 bis 10 Stunden in kaltem Wasser einweichen.  
+Sie nehmen dadurch etwa ihr eigenes Gewicht an Wasser auf.  
+
+Den Sauerteig und das Öl zusammen mit 150ml frischem Wasser in die abgeschütteten Bohnen geben.  
+Kräftig pürieren oder mixen, bis die Bohnen gut zerkleinert sind.  
+Zucker und Hefe in den Sojabrei rühren, kurz warten.  
+Mehl und Erva-Mate Chimarrão mischen und in den Brei einrühren, falls nötig Wasser zugeben.  
+Mindestens eine halbe Stunde gehen lassen, dann Teigkonsistenz noch mal überprüfen.  
+
+Mit Zimt und abgeriebener Zitronenschale abschmecken, Vanille passt nicht so gut.  
+
+Achtung, bei zu langem Backen werden die Waffeln schnell bitter.  
 
 ### 4-vegane-waffel.gsm
 
